@@ -1,0 +1,16 @@
+.container{
+margin: 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  background-color: #ccc;
+
+
+}
+
+
+
+
+.dark {
+    background-color: #fff;
+  filter: invert(1);
+ }
